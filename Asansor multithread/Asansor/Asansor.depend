@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1607879433 source:/home/erdem/Projects/C/Asansor/main.cpp
+	<vector>
+	<thread>
+	<string>
+	<mutex>
+	<iostream>
+	<chrono>
+
+1607016053 /home/erdem/Projects/C/Asansor/timercpp.h
+	<iostream>
+	<thread>
+	<chrono>
+
+1607968400 source:c:\users\dayi\desktop\asansor (1)\asansor\main.cpp
+	<vector>
+	<thread>
+	<string>
+	<mutex>
+	<iostream>
+	<chrono>
+
+1607973719 source:c:\users\berkay\desktop\yeni klasör (12)\130202057-130202013\asansor\main.cpp
+	<vector>
+	<thread>
+	<string>
+	<mutex>
+	<iostream>
+	<chrono>
+
+1608219788 source:c:\users\berkay\desktop\yazbla2.proje\130202057-130202013\asansor\main.cpp
+	<vector>
+	<thread>
+	<string>
+	<iostream>
+	<chrono>
+
